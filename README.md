@@ -12,8 +12,8 @@ The program then selects the better phone based on random choice.
 - Demonstrates use of game-style logic.
 
 ## How to Run
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/mwitaben2-spec/BestPhoneSelector.git
+1. run this code to visualize
+2. (https://github.com/mwitaben2-spec/BestPhoneSelector/blob/main/phone_game.jac)
 ﻿# Best Phone Selector
+
 
